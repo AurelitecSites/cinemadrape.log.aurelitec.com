@@ -1,0 +1,7 @@
+---
+layout: base
+---
+
+{% from "blocks/post.njk" import postBlock with context %}
+
+{{ postBlock(collections.posts | getCollectionItem(page)) }}
