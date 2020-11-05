@@ -1,0 +1,12 @@
+---
+layout: base
+---
+
+{% from "blocks/post.njk" import postBlock with context %}
+
+{% for post in collections.posts | reverse %}
+  {{ postBlock(post, isSingle = false) }}
+
+  <hr>
+{% endfor %}
+

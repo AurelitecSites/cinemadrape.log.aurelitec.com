@@ -19,3 +19,4 @@ tags: [reviews, quotes, blog, advertising, distractions, very useful]
 
 > "Very useful for those who do not want to waste precious time due to increasingly tempting distractions."
 
+<!--more-->

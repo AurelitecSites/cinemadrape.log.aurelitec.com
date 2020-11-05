@@ -1,4 +1,4 @@
-{% macro postBlock(post) %}
+{% macro postBlock(post, isSingle) %}
   {{ post.date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" }) }}
 
   {{ post.data.location }}
@@ -6,7 +6,7 @@
 
   <h1><a href="{{ post.url }}">{{ post.data.title }}</a></h1>
   
-  {{ post.templateContent | safe }}
+  {{ post.templateContent | safe if isSingle else post.data.page.excerpt | md | safe }}
 
   {{ post.data.tags }}
 {% endmacro %}

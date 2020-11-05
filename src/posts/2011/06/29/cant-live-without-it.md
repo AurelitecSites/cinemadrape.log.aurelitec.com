@@ -16,3 +16,5 @@ tags: [user reviews, quotes, live]
 A user comment on [AlternativeTo](https://alternativeto.net/software/cinemadrape/):
 
 > "I was pointed to Cinemadrape and now can't live without it." (_Neil Kolban_)
+
+<!--more-->
