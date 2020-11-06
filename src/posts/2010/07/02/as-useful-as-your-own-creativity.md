@@ -7,8 +7,10 @@ seoDescription:
 date: 2010-07-02
 postedDate: 2020-11-06
 
-location:
-country:
+language: English
+# locationReason:
+# location:
+# country:
 
 tags: [user reviews, quotes, useful, creativity, recommended]
 ---

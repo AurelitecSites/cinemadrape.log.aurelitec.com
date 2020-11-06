@@ -7,8 +7,10 @@ seoDescription:
 date: 2011-08-09
 postedDate: 2020-11-05
 
-location:
-country:
+language: English
+# locationReason:
+# location:
+# country:
 
 tags: [user reviews, quotes, keeper]
 ---

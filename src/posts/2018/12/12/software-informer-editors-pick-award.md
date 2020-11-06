@@ -7,6 +7,7 @@ seoDescription:
 date: 2018-12-12
 postedDate: 2020-11-06
 
+language: English
 locationReason: Informer Technologies, Inc. is based in
 location: Roseau Valley
 country: Dominica

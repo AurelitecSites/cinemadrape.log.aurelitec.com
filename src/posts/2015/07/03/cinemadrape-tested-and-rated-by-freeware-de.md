@@ -19,8 +19,7 @@ The app receives a 4.7 star rating from the Freeware.de editorial team:
 
 > "CinemaDrape provides a digital curtain for the screen. For users that want to hide potential distractions, CinemaDrape is the ideal tool." _[translated from German]_
 
-Read the review:  
-[CinemaDrape Download | Freeware.de](https://www.freeware.de/download/cinemadrape/)
+[Read the review](https://www.freeware.de/download/cinemadrape/)
 
 <img src="/assets/images/posts/2015/07/03/freeware.de-logo.png" alt="Freeware.de" 
      class="log-img-fluid log-mt-1" width="200">
