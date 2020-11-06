@@ -7,6 +7,7 @@ seoDescription:
 date: 2010-06-24
 postedDate: 2020-11-05
 
+locationReason: Iqbal Yusaf's Twitter profile location is
 location: New York City
 country: United States
 

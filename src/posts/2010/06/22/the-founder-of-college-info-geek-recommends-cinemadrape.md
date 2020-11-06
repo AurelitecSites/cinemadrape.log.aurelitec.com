@@ -7,11 +7,14 @@ seoDescription:
 date: 2010-06-22
 postedDate: 2020-11-05
 
+locationReason: Iowa State University is in
 location: Ames, Iowa
 country: United States
 
 tags: [media, articles, quotes, anti-distraction]
 ---
+
+Iowa State University student Thomas Frank, the founder of College Info Geek, recommends CinemaDrape to minimize distractions:
 
 > "You don't need to do away with the nice desktop enhancements you have; just use an anti-distraction program like CinemaDrape. It blacks out everything on your screen except what lands inside an adjustable window."
 

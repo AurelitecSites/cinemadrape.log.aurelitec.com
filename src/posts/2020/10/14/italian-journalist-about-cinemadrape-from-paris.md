@@ -7,6 +7,7 @@ seoDescription:
 date: 2020-10-14
 postedDate: 2020-11-05
 
+locationReason: Mauro Donzelli's Twitter profile location is
 location: Paris
 country: France
 

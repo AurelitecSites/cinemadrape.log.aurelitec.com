@@ -2,8 +2,17 @@
   <article class="log-post log-whole">
     <div class="log-half">
       <p>
-        {{ post.date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" }) }}<br>
-        {{ post.data.location + ", " if post.data.location }}{{ post.data.country }}
+        <div class="log-post-date">
+          {{ post.date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" }) }}
+        </div>
+        {% if post.data.locationReason %}
+          <div class="log-post-location-reason">
+            [{{ post.data.locationReason }}]
+          </div>
+        {% endif %}
+        <div class="log-post-location">
+          {{ post.data.location + ", " if post.data.location }}{{ post.data.country }}
+        </div>
       </p>
     </div>
     <div class="log-half">
