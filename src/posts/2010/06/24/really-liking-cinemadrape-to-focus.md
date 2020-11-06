@@ -1,5 +1,5 @@
 ---
-title: Really liking CinemaDrape on Windows to help focus on the task at hand
+title: Really liking CinemaDrape, on Twitter
 
 seoTitle:
 seoDescription:
@@ -7,8 +7,8 @@ seoDescription:
 date: 2010-06-24
 postedDate: 2020-11-05
 
-location:
-country:
+location: New York City
+country: United States
 
 tags: [user reviews, quotes, like, focus]
 ---

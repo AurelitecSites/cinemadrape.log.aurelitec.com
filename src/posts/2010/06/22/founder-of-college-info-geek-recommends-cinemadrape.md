@@ -1,5 +1,5 @@
 ---
-title: Thomas Frank, founder of College Info Geek, recommends CinemaDrape
+title: The founder of College Info Geek recommends CinemaDrape
 
 seoTitle:
 seoDescription:
@@ -7,8 +7,8 @@ seoDescription:
 date: 2010-06-22
 postedDate: 2020-11-05
 
-location:
-country:
+location: Iowa State University
+country: United States
 
 tags: [media, articles, quotes, anti-distraction]
 ---

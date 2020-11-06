@@ -1,5 +1,5 @@
 ---
-title: I was pointed to Cinemadrape and now can't live without it.
+title: Can't live without it
 
 seoTitle:
 seoDescription:

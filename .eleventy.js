@@ -10,6 +10,8 @@ module.exports = function (eleventyConfig) {
     excerpt_separator: "<!--more-->",
   });
 
+  eleventyConfig.addPassthroughCopy('src/assets');
+
   eleventyConfig.addFilter('dump', obj => util.inspect(obj));
 
   eleventyConfig.addFilter("md", function (content = "") {
