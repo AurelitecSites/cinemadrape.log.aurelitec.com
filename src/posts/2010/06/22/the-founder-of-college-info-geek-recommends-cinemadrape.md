@@ -8,7 +8,8 @@ date: 2010-06-22
 postedDate: 2020-11-05
 
 language: English
-locationReason: Iowa State University is in
+# locationReason: Iowa State University is in
+locationReason: Iowa State University's location
 location: Ames, Iowa
 country: United States
 

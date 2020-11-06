@@ -8,7 +8,8 @@ date: 2018-10-08
 postedDate: 2020-11-06
 
 language: English
-locationReason: MajorGeeks is based in
+# locationReason: MajorGeeks is based in
+locationReason: MajorGeeks is based here
 location: Camillus, New York
 country: United States
 

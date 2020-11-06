@@ -10,7 +10,7 @@ body {
   line-height: 1.8;
   letter-spacing: 0.0125em;
   text-align: left;
-  padding: 1rem;
+  padding: 0 1rem;
 }
 
 @media (min-width: 768px) {
@@ -21,7 +21,7 @@ body {
 
 @media (min-width: 992px) {
   body {
-    padding: 5rem 10rem;
+    padding: 0 10rem;
   }
 }
 
@@ -88,6 +88,11 @@ h1, h2 {
 }
 
 
+.log-title a {
+  border-bottom: none;
+}
+
+
 
 .log-post {
   padding: 4rem 0;
@@ -98,7 +103,7 @@ h1, h2 {
   font-size: 0.875rem;
   font-weight: 200;
   line-height: 1;
-  margin-top: 1rem;
+  /* margin-top: 1rem; */
 }
 
 .log-post-title {
@@ -123,4 +128,13 @@ h1, h2 {
 
 .log-mt-1 {
   margin-top: 1rem;
+}
+
+.log-header {
+  border-bottom: 2px solid black;
+  padding: 4rem 0; 
+}
+
+.log-footer {
+  padding: 4rem 0; 
 }

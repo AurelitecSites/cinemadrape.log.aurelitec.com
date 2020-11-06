@@ -8,7 +8,8 @@ date: 2011-07-28
 postedDate: 2020-11-06
 
 language: English
-locationReason: Softoxi is based in
+# locationReason: Softoxi is based in
+locationReason: Softoxi is based here
 location: Iaşi
 country: Romania
 

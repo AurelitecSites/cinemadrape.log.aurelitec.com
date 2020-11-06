@@ -5,10 +5,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ seoTitle or title }}</title>
 
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@200;400;600;700&display=swap" rel="stylesheet">
+    {# Google Fonts #}
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@200;400;700&display=swap" rel="stylesheet">
+    
+    {# CSS #}
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
+
+    <header class="log-header log-whole">
+      <div class="log-half">
+        <h1 class="log-title"><a href="/">{{ metadata.title }}</a></h1>
+      </div>
+      <div class="log-half">
+        <p>
+          <a href="https://www.aurelitec.com/cinemadrape/">https://www.aurelitec.com/cinemadrape/</a>
+        </p>
+
+      </div>
+    </header>
+
     {{ content | safe }}
+
+    <footer class="log-footer log-whole">
+      <div class="log-half">
+        <p class="log-title"><a href="https://www.aurelitec.com/">{{ metadata.copyright | safe }}</a></p>
+      </div>
+      <div class="log-half">
+
+      </div>
+    </footer>
   </body>
 </html>

@@ -8,7 +8,8 @@ date: 2020-10-14
 postedDate: 2020-11-05
 
 language: Italian
-locationReason: Mauro Donzelli's Twitter profile location is
+# locationReason: Mauro Donzelli's Twitter profile location is
+locationReason: Mauro Donzelli's Twitter profile location
 location: Paris
 country: France
 

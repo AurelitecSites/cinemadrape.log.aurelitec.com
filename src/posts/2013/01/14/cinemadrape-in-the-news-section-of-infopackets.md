@@ -8,7 +8,8 @@ date: 2013-01-14
 postedDate: 2020-11-06
 
 language: English
-locationReason: Infopackets is based in
+# locationReason: Infopackets is based in
+locationReason: Infopackets is based here
 location: Lakeshore, Ontario
 country: Canada
 

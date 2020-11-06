@@ -8,7 +8,8 @@ date: 2018-12-12
 postedDate: 2020-11-06
 
 language: English
-locationReason: Informer Technologies, Inc. is based in
+# locationReason: Informer Technologies, Inc. is based in
+locationReason: Informer Technologies, Inc. is based here
 location: Roseau Valley
 country: Dominica
 

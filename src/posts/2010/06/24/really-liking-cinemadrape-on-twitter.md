@@ -8,7 +8,8 @@ date: 2010-06-24
 postedDate: 2020-11-05
 
 language: English
-locationReason: Iqbal Yusaf's Twitter profile location is
+# locationReason: Iqbal Yusaf's Twitter profile location is
+locationReason: Iqbal Yusaf's Twitter profile location
 location: New York City
 country: United States
 
