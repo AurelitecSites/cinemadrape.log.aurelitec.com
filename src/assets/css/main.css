@@ -1,3 +1,7 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Mulish', sans-serif;
   color: black;
@@ -6,10 +10,17 @@ body {
   line-height: 1.8;
   letter-spacing: 0.0125em;
   text-align: left;
-  padding-top: 5rem;
-  padding-left: 10rem;
-  padding-right: 10rem;
-  padding-bottom: 5rem;  
+  padding: 1rem;
+}
+
+@media (min-width: 768px) {
+  body {
+    padding: 5rem 10rem;
+  }
+}
+
+img, svg {
+  vertical-align: middle;
 }
 
 a {
@@ -45,19 +56,35 @@ blockquote {
   /* padding-left: 1rem; */
 }
 
-
-.log-whole {
-  display: table;
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
-.log-half {
-  display: table-cell;
-  width: 50%;
+h1, h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  /* font-weight: 700; */
+  /* line-height: 1.2; */
 }
+
+
+@media (min-width: 768px) {
+  .log-whole {
+    display: table;
+  }
+  
+  .log-half {
+    display: table-cell;
+    width: 50%;
+  }  
+}
+
 
 
 .log-post {
-  padding: 2rem 0;
+  padding: 4rem 0;
+  border-bottom: 1px solid black;
 }
 
 .log-post-title {
@@ -67,4 +94,19 @@ blockquote {
 
 .log-post-title a {
   border-bottom: none;
+}
+
+/* .log-post-image {
+
+} */
+
+
+
+.log-img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.log-mt-1 {
+  margin-top: 1rem;
 }

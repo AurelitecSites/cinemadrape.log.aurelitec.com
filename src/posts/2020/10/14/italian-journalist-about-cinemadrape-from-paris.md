@@ -21,7 +21,7 @@ Journalist Mauro Donzelli writes about CinemaDrape on his blog:
 >
 > — _[translated from Italian]_
 
-Read the entire article:  
+Read the blog post:  
 [Come Evitare di Distrarsi Mentre si Lavora con il Pc](https://www.maurodonzelli.com/come-evitare-di-distrarsi-mentre-si-lavora-con-il-pc)
 
 <!--more-->

@@ -1,5 +1,5 @@
 ---
-title: Elegant simplicity ... Well done to the developer!
+title: Elegant simplicity
 
 seoTitle:
 seoDescription:

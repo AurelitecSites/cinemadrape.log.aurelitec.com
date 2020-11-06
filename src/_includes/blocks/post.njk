@@ -3,8 +3,7 @@
     <div class="log-half">
       <p>
         {{ post.date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" }) }}<br>
-        {{ post.data.location }}<br>
-        {{ post.data.country }}
+        {{ post.data.location + ", " if post.data.location }}{{ post.data.country }}
       </p>
     </div>
     <div class="log-half">
@@ -13,7 +12,7 @@
       
       {{ post.templateContent | safe if isSingle else post.data.page.excerpt | md | safe }}
 
-      {{ post.data.tags }}
+      {# {{ post.data.tags }} #}
     </div>
   </article>
 {% endmacro %}
