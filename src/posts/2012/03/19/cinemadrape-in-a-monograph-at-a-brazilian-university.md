@@ -7,6 +7,7 @@ seoDescription:
 date: 2012-03-19
 postedDate: 2020-11-05
 
+language: Portuguese
 locationReason: Federal University of Minas Gerais is in
 location: Belo Horizonte
 country: Brazil
